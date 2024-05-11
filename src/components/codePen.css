@@ -1,0 +1,23 @@
+.q {
+   margin-bottom: 20px;
+}
+
+.CodeMirror-wrap {
+   border-top-right-radius: 10px;
+   border-bottom-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+
+}
+
+.CodeMirror {
+   height: 250px !important;
+   color: #fff;
+}
+
+.CodeMirror-gutters {
+   background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll {
+   background: #1d1e22;
+}
